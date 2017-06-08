@@ -327,12 +327,12 @@ textarea {
 }
 
 a {
-  color: #27ae60;
+  color: #009999;
   text-decoration: none;
 }
 
 a:hover, a:focus {
-  color: #27ae60;
+  color: #009999;
   text-decoration: underline;
 }
 
@@ -557,48 +557,48 @@ mark,
 }
 
 .text-primary {
-  color: #27ae60;
+  color: #009999;
 }
 
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #1e8449;
+  color: #009999;
 }
 
 .text-success {
-  color: #2ecc71;
+  color: #001a71;
 }
 
 a.text-success:hover,
 a.text-success:focus {
-  color: #25a25a;
+  color: #009999;
 }
 
 .text-info {
-  color: #59abe3;
+  color: #001a71;
 }
 
 a.text-info:hover,
 a.text-info:focus {
-  color: #2d95dc;
+  color: #001a71;
 }
 
 .text-warning {
-  color: #e2b13c;
+  color: #ff5000;
 }
 
 a.text-warning:hover,
 a.text-warning:focus {
-  color: #cd991e;
+  color: #ff5000;
 }
 
 .text-danger {
-  color: #c91f37;
+  color: #4d858d;
 }
 
 a.text-danger:hover,
 a.text-danger:focus {
-  color: #9d182b;
+  color: #41738c;
 }
 
 .bg-primary {
